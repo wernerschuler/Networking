@@ -4,8 +4,7 @@ Local area network (LAN)
 -- 
 A Local Area Network (LAN) is a network that connects devices within a limited area such as a home, office building, or school. A LAN allows devices to communicate and share resources in a localised environment.  
 
-Below are steps to create a simple LAN using Cisco Packet Tracer
--- 
+<h3>A simple LAN using Cisco Packet Tracer:</h3>
 
 <img src="https://i.imgur.com/zXZlUdB.png" height="30%" width="40%" alt="2 PC's and a laptop connected to a switch"/>
 
