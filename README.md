@@ -26,6 +26,8 @@ When you assign a *static* IP address to a device it means that the IP address h
 
 An *IP address* is a unique numerical label assigned to each device connected to a network, allowing for communication with other devices.
 
+A *subnet mask* is a 32-bit number used in conjuction with an IP address to identify the network and host portion of an address. For example PC0 has an IP address of 192.168.1.1 and a subnet mask of 255.255.255.0, the network portion would be 192.168.1, and the host portion would be 1.
+
 <br>
 
 <img src="https://i.imgur.com/zUQHE2y.png" height="40%" width="40%" alt="PC0's IP configurations settings"/>
