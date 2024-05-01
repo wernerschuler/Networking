@@ -36,4 +36,9 @@ To verify that PC0 has accepted those changes enter the command ipconfig into th
 
 To check if there is connectivity between 2 devices on a network use the ping command. To check for connectivity between PC0 and PC1 enter ping 192.168.1.2 in the command prompt.
 
+Wide Area Network (WAN)
+-- 
+
+A WAN is a network that covers a large area such as countries, cities, and continents. It is made up of multiple connected LANs 
+
 
